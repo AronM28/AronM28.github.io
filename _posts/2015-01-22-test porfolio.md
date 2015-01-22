@@ -11,6 +11,7 @@ Which should appear below.
 
 Or not - how about now?
 
+This seems to work okay...
 
 <script src="http://AronM28.github.io/chart.js/Chart.js"></script>
 
