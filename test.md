@@ -14,7 +14,7 @@ Thanks for visiting.
 <script src="http://AronM28.github.io/chart.js/Chart.js"></script>
 
 <div id="canvas-holder">
-<canvas id="chart-area" width="400" height="400"/>
+<canvas id="chart-area" width="300" height="300"/>
 </div>
 
 <script>
