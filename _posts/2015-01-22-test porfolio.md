@@ -7,5 +7,5 @@ This is a test graph for a portfolio taking the html from elsewhere.
 
 Which should appear below.
 
-<<[test.html]
+<<[http://aronm28.github.io/chartjs/test.html]
 
