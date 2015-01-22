@@ -54,8 +54,8 @@ var doughnutData = [
 				},
 				{
 					value: 25,
-					color: "#DC9656",
-					highlight: "E4964E",
+					color: "#00A9FF",
+					highlight: "33BAFF",
 					label: "UK"
 				},
 				{
