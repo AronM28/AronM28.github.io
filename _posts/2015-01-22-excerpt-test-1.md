@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Test post
+related: ["test", "portfolio"]
 ---
 
 This is testing the !--more-- within a post.

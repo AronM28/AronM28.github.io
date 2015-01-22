@@ -2,6 +2,7 @@
 layout: post
 title: test portfolio
 excerpt_separator: <!--more-->
+related: ["test", "portfolio"]
 ---
 
 This is a test graph for a portfolio taking the html from elsewhere.
