@@ -22,34 +22,46 @@ Or not - how about now?
 
 var doughnutData = [
 				{
-					value: 25,
+					value: 8,
 					color:"#F7464A",
 					highlight: "#FF5A5E",
-					label: "UK equity"
+					label: "Property"
 				},
 				{
-					value: 50,
+					value: 8,
 					color: "#46BFBD",
 					highlight: "#5AD3D1",
-					label: "Green"
+					label: "Emerging markets"
 				},
 				{
-					value: 100,
+					value: 8,
 					color: "#FDB45C",
 					highlight: "#FFC870",
-					label: "Yellow"
+					label: "EU ex UK"
 				},
 				{
-					value: 40,
+					value: 8,
 					color: "#949FB1",
 					highlight: "#A8B3C5",
-					label: "Grey"
+					label: "Japany"
 				},
 				{
-					value: 120,
+					value: 8,
 					color: "#4D5360",
 					highlight: "#616774",
-					label: "Dark Grey"
+					label: "Pacific"
+				}
+				{
+					value: 25,
+					color: "#dc9656",
+					highlight: "e4964e",
+					label: "UK"
+				}
+				{
+					value: 35,
+					color: "ba8baf",
+					highlight: "c49bba",
+					label: "US"
 				}
 			];
 			window.onload = function(){
