@@ -9,6 +9,9 @@ Which should appear below.
 
 <<[http://aronm28.github.io/chartjs/test.html]
 
+Or not - how about now?
+
+
 <script src="http://AronM28.github.io/chart.js/Chart.js"></script>
 
 <div id="canvas-holder">
