@@ -28,44 +28,44 @@ This seems to work okay...
 var doughnutData = [
 				{
 					value: 8,
-					color:"#F7464A",
-					highlight: "#FF5A5E",
+					color:"#F44336",
+					highlight: "#E57373",
 					label: "Property"
 				},
 				{
 					value: 8,
-					color: "#46BFBD",
-					highlight: "#5AD3D1",
+					color: "#673AB7",
+					highlight: "#9575CD",
 					label: "Emerging markets"
 				},
 				{
 					value: 8,
-					color: "#FDB45C",
-					highlight: "#FFC870",
+					color: "#3F51B5",
+					highlight: "#7986CB",
 					label: "EU ex UK"
 				},
 				{
 					value: 8,
-					color: "#949FB1",
-					highlight: "#A8B3C5",
-					label: "Japany"
+					color: "#009688",
+					highlight: "#4DB6AC",
+					label: "Japan"
 				},
 				{
 					value: 8,
-					color: "#4D5360",
-					highlight: "#616774",
+					color: "#9E9E9E",
+					highlight: "#E0E0E0",
 					label: "Pacific"
 				},
 				{
 					value: 25,
-					color: "#00A9FF",
-					highlight: "33BAFF",
+					color: "#FF9800",
+					highlight: "#FFB74D",
 					label: "UK"
 				},
 				{
 					value: 35,
-					color: "#BA8BAF",
-					highlight: "#C49BBA",
+					color: "#4CAF50",
+					highlight: "#81C784",
 					label: "US"
 				}
 			];
