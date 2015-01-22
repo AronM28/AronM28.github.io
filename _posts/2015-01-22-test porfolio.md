@@ -13,6 +13,8 @@ Or not - how about now?
 
 This seems to work okay...
 
+<!--more-->
+
 <script src="http://AronM28.github.io/chart.js/Chart.js"></script>
 
 <div id="canvas-holder">
