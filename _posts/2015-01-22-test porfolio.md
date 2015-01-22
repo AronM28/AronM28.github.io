@@ -51,13 +51,13 @@ var doughnutData = [
 					color: "#4D5360",
 					highlight: "#616774",
 					label: "Pacific"
-				}
+				},
 				{
 					value: 25,
 					color: "#dc9656",
 					highlight: "e4964e",
 					label: "UK"
-				}
+				},
 				{
 					value: 35,
 					color: "ba8baf",
