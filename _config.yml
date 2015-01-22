@@ -16,6 +16,9 @@ url:                 http://lanyon.getpoole.com
 baseurl:             /
 paginate:            5
 
+
+excerpt_separator: <!--more--> # Exert seperator 
+
 # About/contact
 author:
   name:              Aron Moore
