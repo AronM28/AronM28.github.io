@@ -14,16 +14,12 @@ title: Home
 
     <span class="post-date">{{ post.date | date_to_string }}</span>
 
-    {{ post.content }}
+    {{ post.excerpt }}
   </div>
   {% endfor %}
 </div>
 
-{% if post.content contains '<!--more-->' %}
-	{{ post.content | split:'<!--more-->' | first }}
-{% else %}
-	{{ post.excerpt }}
-{% endif %}
+
 
 <div class="pagination">
   {% if paginator.next_page %}

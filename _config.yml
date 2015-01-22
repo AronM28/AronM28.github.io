@@ -17,7 +17,9 @@ baseurl:             /
 paginate:            5
 
 # Exert seperator
-excerpt_separator: <!--more-->  
+excerpt_separator: <!--more--> 
+
+ 
 
 # About/contact
 author:
