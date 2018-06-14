@@ -1,0 +1,9 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "chart.js/package.json"
+      ]
+    }
+  }
+}
